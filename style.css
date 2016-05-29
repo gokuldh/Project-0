@@ -1,0 +1,24 @@
+body{
+  padding: 5% 2%;
+  max-width: 100%;
+  margin: 0 auto;
+  font-size:18px;
+  font-family: Raleway, arial, sans-serif;
+  padding-bottom: 1%;
+}
+
+h1{
+  text-align: center;
+  font-family: Raleway, arial, sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+  letter-spacing: 4px;
+  line-height: 2.5;
+  color: #000;
+}
+
+p{
+  padding: 0.5%;
+  font-weight: 300;
+  color: #888;
+}
